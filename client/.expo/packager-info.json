@@ -1,0 +1,10 @@
+{
+  "devToolsPort": 19002,
+  "expoServerPort": 19000,
+  "packagerPort": null,
+  "packagerPid": null,
+  "expoServerNgrokUrl": "https://r4-pxy.nkhorasi.donewithit.exp.direct",
+  "packagerNgrokUrl": "https://packager.r4-pxy.nkhorasi.donewithit.exp.direct",
+  "ngrokPid": 84960,
+  "webpackServerPort": null
+}
