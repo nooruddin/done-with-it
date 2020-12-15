@@ -9,3 +9,8 @@
 - lottie animations
 - bugsnag for error reporting
 - various libraries from react-native-community & react-navigation
+
+## Running on Android Device.
+
+- Download Expo Client from Play Store - https://play.google.com/store/apps/details?id=host.exp.exponent&hl=en_IN&gl=US
+- Point your Expo Client app at QR Code on this website - https://expo.io/@nkhorasi/projects/DoneWithIt
